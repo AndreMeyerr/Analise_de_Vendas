@@ -10,6 +10,10 @@ Este projeto envolve a realização de uma análise abrangente dos dados de vend
 - Biblioteca Pandas
 - Biblioteca Matplotlib
 - Biblioteca OS
+- Biblioteca datetime
+- Biblioteca seaborn
+- Biblioteca itertools
+- Biblioteca collections
 
 ### Preparação dos Dados
 Os dados brutos de vendas de cada mês são mesclados em um único arquivo CSV usando a biblioteca Pandas do Python. Durante esse processo, lidamos com valores ausentes e limpamos os dados para garantir precisão em nossa análise.
